@@ -92,10 +92,8 @@
               </publisher>
               <buildInfo>
                 <buildName>Xray Integration Check</buildName>
-                <buildNumber>${buildnumber}</buildNumber>
-                <!--
-   	       <buildUrl>${url}/artifactory/webapp/builds/Maven Artifactory連携/${buildnumber}</buildUrl>
-                -->
+                <buildNumber>${buildNumber}</buildNumber>
+   	       <buildUrl>${url}/artifactory/webapp/builds/Xray Integration Check/${buildNumber}</buildUrl>
               </buildInfo>
               <licenses>
                 <autoDiscover>true</autoDiscover>
